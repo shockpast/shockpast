@@ -1,9 +1,13 @@
 ![shockpast](https://count.getloli.com/@shockpast?theme=gelbooru)
----
 
-[![WakaTime](https://wakatime.com/badge/user/69fd3683-b43c-4d11-b4e4-0b81a85adc74.svg)](https://wakatime.com/@69fd3683-b43c-4d11-b4e4-0b81a85adc74) 
-![ip badge](https://img.shields.io/badge/ip-192.168.0.1-8A2BE2)
+## $desc
 
----
+readme like this looks like cringe, but i made it for "general" knowledge of what i have experience of, and just some other not interesting information
 
-I loooooooove [reversing](https://en.wikipedia.org/wiki/Reverse_engineering), I love [Rust](https://rust-lang.org/), I loooooooove [Lua](https://www.lua.org/), I hate and love at the same time [C++](https://en.wikipedia.org/wiki/C%2B%2B)/[C](https://en.wikipedia.org/wiki/C_(programming_language))
+i love c++ *(paired with reversing)*, i love lua *(as scripting lang and its ease of integration in personal projects)* and i love searching vulnerabilites in any software that seems to be interesting to me
+
+## $luv
+
+these people contributed in my life in some way, and i learned a lot from them *(some are not included for privacy reasons)*
+
+[$codabro](https://github.com/codabro) [$lunar](https://github.com/wizard00000) [$redox](https://github.com/wrefgtzweve) [$phoenixf](https://github.com/phoen1xf) [$crester](https://github.com/cresterienvogel) [$blackwolf](https://github.com/blackwolf660)
